@@ -1,0 +1,50 @@
+#first {
+    color: white;
+}
+
+#container {
+    font-size: 150%;
+}
+
+p {
+    color: white;
+}
+
+body {
+    background: url('/images/fon.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+#checker {
+    color: white;
+}
+
+#tabler {
+    background-color: light-purple;
+}
+
+th {
+    color: white;
+}
+
+td {
+    color: white;
+}
+
+p.normal {
+    color: white;
+    font-weight: 900;
+    font-size: 200%;
+}
+#passwordHelpInline{
+  color:white;
+}
+#text{
+  color:white;
+}
+#rewievs{
+  color:white;
+}
+#greeting{}
